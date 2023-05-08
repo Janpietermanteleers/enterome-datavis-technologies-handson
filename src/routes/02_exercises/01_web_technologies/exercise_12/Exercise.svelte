@@ -14,4 +14,7 @@
 		click here
 	</button>
 	<!--  -->
+	<button class="btn btn-primary" on:click={() => (clicked = false)}>
+		unclick
+	</button>
 </div>

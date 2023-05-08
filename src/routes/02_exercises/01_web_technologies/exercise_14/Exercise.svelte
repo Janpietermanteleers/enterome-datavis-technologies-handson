@@ -1,20 +1,30 @@
 <script>
   let current = "";
+ 
 </script>
 
+
+<p class:={}/>
+
+
 <style>
-  btn btn-secondary
+  p{
+    background-color: red;
+    
+  }
 </style>
 
+
+
 <!-- We will cover buttons later on! -->
-<button class="btn btn-secondary" on:click={() => (current = "messi")}>
+<button class="messi" on:click={() => (current = "messi")}>
   Messi
 </button>
 
-<button class="btn btn-secondary" on:click={() => (current = "ronaldo")}>
+<button class="ronaldo" on:click={() => (current = "ronaldo")}>
   Ronaldo
 </button>
 
-<button class="btn btn-secondary" on:click={() => (current = "neymar")}>
+<button class="neymar" on:click={() => (current = "neymar")}>
   Neymar
 </button>

@@ -2,4 +2,4 @@
     export let answer = 0;
 </script>
 
-<p></p>
+<p>The answer to life and everything is {answer}</p>
