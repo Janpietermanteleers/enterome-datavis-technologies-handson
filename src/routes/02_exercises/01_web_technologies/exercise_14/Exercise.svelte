@@ -2,6 +2,10 @@
   let current = "";
 </script>
 
+<style>
+  btn btn-secondary
+</style>
+
 <!-- We will cover buttons later on! -->
 <button class="btn btn-secondary" on:click={() => (current = "messi")}>
   Messi

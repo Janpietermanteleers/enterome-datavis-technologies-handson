@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-
-<html>
     <h1>
         Janpieter
     </h1>
@@ -23,4 +20,3 @@
     <h6>
         Janpieter
     </h6>
-</html>
